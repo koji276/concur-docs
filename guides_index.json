@@ -1,0 +1,482 @@
+{
+  "updated": "2025-11-09",
+  "base": "https://koji276.github.io/concur-docs/",
+  "guides": [
+    {
+      "guideNameEn": "Account Codes",
+      "guideNameJp": "勘定科目コード(2017年01月10日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Account_Codes-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Allocations",
+      "guideNameJp": "配賦(2020年7月1日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Allocations-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Attendees",
+      "guideNameJp": "同席者(2023年6月28日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Attendees-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Audit Rules",
+      "guideNameJp": "監査ルール (2024年8月17日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Audit_Rules-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": NaN,
+      "guideNameJp": "別冊: 日付の演算子について",
+      "url": NaN,
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Audit Rules (Validation Rules)",
+      "guideNameJp": "監査ルール（検証ルール）(2022年8月5日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Audit_Rules_Validation_Rules-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Budget (Shared)",
+      "guideNameJp": "予算（製品共通）(2021年2月20日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Budget-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": NaN,
+      "guideNameJp": "別冊: 予算管理についてのよくある質問(2019年5月29日版)",
+      "url": NaN,
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Car Configuration",
+      "guideNameJp": "車両設定(2021年1月27日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Car_Config-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Cash Advance",
+      "guideNameJp": "仮払申請(2021年8月27日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Cash_Advance-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Central Reconciliation",
+      "guideNameJp": "突合(2018年4月4日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Central_Recon-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Change Log",
+      "guideNameJp": "変更ログ(2022年4月7日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Config_Chg_Log-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Company Billed Statement Reports (Purchasing Card)",
+      "guideNameJp": "会社請求の取引明細書レポート（購買カード）(2017年4月4日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Comp_Bill_State-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Concept Fields for Analysis/Intelligence (Shared)",
+      "guideNameJp": "Analysis/Intelligence の概念フィールド（製品共通）(2016年12月14日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_ConceptFields-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Custom Localization Service",
+      "guideNameJp": "カスタム翻訳サービス(2023年3月4日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Custom_Localization_Service_ja.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Currency Admin",
+      "guideNameJp": "通貨管理(2018年4月14日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Currencies-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Data Retention (Shared)",
+      "guideNameJp": "データ保持（製品共通）(2024年1月30日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Data_Retention-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Delegate Configuration (Shared)",
+      "guideNameJp": "代理構成（製品共通）(2023年7月18日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Delegate_Config-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Email Approval - Policies (ポリシー) のガイドをご参照ください",
+      "guideNameJp": "メール承認 - Policies (ポリシー) のガイドをご参照ください",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Policies-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Email Reminders",
+      "guideNameJp": "メールによる備忘通知(2018年4月4日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Email_Reminders-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "E-Receipts",
+      "guideNameJp": NaN,
+      "url": NaN,
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Exceptions",
+      "guideNameJp": "規定外フラグ(2018年4月4日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Exceptions-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Expense Types",
+      "guideNameJp": "経費タイプ(2024年2月24日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Expense_Types-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Feature Hierarchies (Shared)",
+      "guideNameJp": "機能階層（製品共通）(2018年2月28日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Feat_Hier-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "File Export Configuration",
+      "guideNameJp": "ファイル エクスポート構成(2016年12月14日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_File_Export_Config-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Financial Integration Service (Shared)",
+      "guideNameJp": "財務統合サービス (FIS) （製品共通) (2022年1月12日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_FIS-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Forms and Fields",
+      "guideNameJp": "フォームとフィールド(2024年8月23日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Forms_Fields-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Group Configurations for Employees (Shared)",
+      "guideNameJp": "従業員用グループ構成（製品共通）(2022年4月22日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Grp_Config_Emp-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Group Configurations for Expense",
+      "guideNameJp": "経費精算用グループ構成 (2023年10月14日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Group_Config-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Hotel Auto-Itemization",
+      "guideNameJp": "ホテル自動明細 (2021年1月7日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Hotel_AutoItemization-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Imaging Settings (Shared)",
+      "guideNameJp": "イメージング設定（製品共通）(2022年11月1日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Imaging_Settings-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Japan Public Transportation on NextGen UI",
+      "guideNameJp": "新 UI での日本の公共交通機関(2022年8月26日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Japan_Public_Trans_NextGen_UI-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Ledgers",
+      "guideNameJp": "元帳(2015年6月12日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Ledgers-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "List Management (Shared)",
+      "guideNameJp": "リスト管理（製品共通）(2023年10月14日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_List_Mgmt-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Localization (Shared)",
+      "guideNameJp": "翻訳（製品共通)(2014年2月7日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Localization-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Locations (Shared)",
+      "guideNameJp": "場所（製品共通）(2021年1月28日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Locations-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Mileage Service",
+      "guideNameJp": "走行距離設定(2022年10月12日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Mileage_Service-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Password Policy (Shared)",
+      "guideNameJp": "パスワード ポリシー （製品共通）(2023年11月15日版)",
+      "url": "https://koji276.github.io/concur-docs/SG_Shr_Password_Policy_Settings-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Payment Types",
+      "guideNameJp": "支払タイプ (2021年12月8日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Payment_Types-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "PDF and Email Reports",
+      "guideNameJp": NaN,
+      "url": NaN,
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Personal Credit Card Import",
+      "guideNameJp": NaN,
+      "url": NaN,
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Policies",
+      "guideNameJp": "ポリシー (2021年3月20日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Policies-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Printed Reports Configuration",
+      "guideNameJp": "印刷用レポート構成 (2021年4月17日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Printed_Reports_Config-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Receipt Handling - Approved Senders",
+      "guideNameJp": "領収書の取扱い - 承認済み送信者 (2021年1月7日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Rec_Hand_Approved_Senders-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Receipt Handling - Faxed Images",
+      "guideNameJp": "領収書の取扱い - イメージの FAX 送信(2015年3月17日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Rec_Hand_Fax-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Receipt Handling - Payment Hold Configuration",
+      "guideNameJp": "領収書の取扱い - 支払保留の構成 (2022年9月27日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Rec_Hand_Payment_Hold-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Receipt Handling - Receipt Limits",
+      "guideNameJp": "領収書の取扱い - 領収書制限 (2018年4月4日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Rec_Hand_Receipt_Limits-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Receipt Handling - Scan Configuration",
+      "guideNameJp": "領収書の取扱い - スキャン設定(2021年1月7日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Rec_Hand_Scan_Config-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Receipt Handling - Digital Receipts (formerly Uploaded and Emailed Images)",
+      "guideNameJp": "領収書の取扱い - デジタル領収書(2022年11月3日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Rec_Hand_Digital_Receipts-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Reporting Configuration (Shared)",
+      "guideNameJp": "分析レポート構成（製品共通）(2018年3月26日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Cognos-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Role Builder (Shared)",
+      "guideNameJp": "ロール ビルダー（製品共通）(2016年12月7日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Role_Builder-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "SAP Task Center Integration with Concur Solutions (Shared)",
+      "guideNameJp": "SAP Task Center Integration with Concur Solutions（製品共通）(2023年2月18日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Task_Center_Integration-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Site Settings",
+      "guideNameJp": "サイト設定(2023年3月31日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Site_Settings-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Sponsored Guest User",
+      "guideNameJp": NaN,
+      "url": NaN,
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Single Sign-On Overview (Shared)",
+      "guideNameJp": "シングル サインオン 概要（製品共通） (2024年4月8日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SSO_Service_Overview-jp.htm",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Single Sign-On (Shared)",
+      "guideNameJp": "シングル サインオン（製品共通） (2022年1月19日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_SSO_Mgmt-jp.htm",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Taxability / Deductibility",
+      "guideNameJp": NaN,
+      "url": NaN,
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Test User (Shared)",
+      "guideNameJp": "テスト ユーザー（製品共通）(2024年3月6日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Test_User-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Training Administration (Shared)",
+      "guideNameJp": "トレーニング管理（製品共通）(2021年3月19日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Training_Admin-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Travel Allowance",
+      "guideNameJp": "出張手当(2016年12月17日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_TA-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Travel Allowance Service",
+      "guideNameJp": "出張手当サービス - 出張手当の設定可能な包括バンドル (2022年4月23日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_TA_ManagedRateService-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Validations (Shared)",
+      "guideNameJp": "検証（製品共通）(2020年8月10日版)",
+      "url": "https://koji276.github.io/concur-docs/Shr_SG_Validations-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Travel Segments Payment Types",
+      "guideNameJp": NaN,
+      "url": NaN,
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Value Added Tax (VAT) / Tax Administration",
+      "guideNameJp": "付加価値税/税管理(2018年3月17日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_VAT-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Workflow - Authorized Approvers",
+      "guideNameJp": "ワークフロー（承認権限者）(2023年8月25日版)",
+      "url": "https://koji276.github.io/concur-docs/EXP_SG_Workflow_AuthAppr-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Workflow - Cost Object Approval",
+      "guideNameJp": "ワークフロー（原価対象の承認者)(2023年8月25日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Workflow_COA-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Workflow - General Information",
+      "guideNameJp": "ワークフロー（概要）(2023年10月14日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Workflow_General-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    },
+    {
+      "guideNameEn": "Workflow Email Notifications",
+      "guideNameJp": "ワークフロー（メール通知）(2020年3月24日版)",
+      "url": "https://koji276.github.io/concur-docs/Exp_SG_Workflow_Email_Notifications-jp.html",
+      "lastUpdated": "",
+      "tags": []
+    }
+  ]
+}
